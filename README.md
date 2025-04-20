@@ -18,7 +18,15 @@ Welcome to the **GITAM University Event Hub**! This project is a web-based platf
 - **JavaScript**: For interactivity and functionality.
 
 ## Project Structure
-GITAM-EventHub-main/ ├── gitam.html # Main HTML file ├── Vskp.html # Visakhapatnam campus page ├── Hyd.html # Hyderabad campus page ├── Blr.html # Bangalore campus page ├── contact.html # Contact page ├── myaccount.html # My Account page ├── l.png # GITAM logo └── other assets # Images and other resources
+```
+GITAM-EventHub-main/ ├── gitam.html # Main HTML file
+                     ├── Vskp.html # Visakhapatnam campus page
+                     ├── Hyd.html # Hyderabad campus page
+                     ├── Blr.html # Bangalore campus page
+                     ├── contact.html # Contact page
+                     ├── myaccount.html # My Account page
+                     ├── l.png # GITAM logo └── other assets # Images and other resources
+```
 
 ## How to Use
 
@@ -31,9 +39,11 @@ GITAM-EventHub-main/ ├── gitam.html # Main HTML file ├── Vskp.html #
 3. Navigate through the navbar to explore events, campuses, and other pages.
 4. Register for events using the registration form.
 
-Event Registration
-Use your GITAM email ID (@gitam.in) to register for events.
-Registered events are stored in the browser's local storage.
+## Event Registration
+1. Use your GITAM email ID (@gitam.in) to register for events.
+2. Registered events are stored in the browser's local storage.
+
+
 
 
 
