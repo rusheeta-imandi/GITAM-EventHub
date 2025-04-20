@@ -35,8 +35,6 @@ Event Registration
 Use your GITAM email ID (@gitam.in) to register for events.
 Registered events are stored in the browser's local storage.
 
-## Screenshot
-
 
 
 
